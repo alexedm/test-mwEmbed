@@ -212,7 +212,7 @@
 		},
 		getSourceSizeName: function( source ){
 			if( source.getHeight() < 255 ){
-				return 'Lowest Quality 1';
+				return 'Lowest Quality 123';
 			} else if( source.getHeight() < 370 ){
 				return 'Low Quality';
 			} else if( source.getHeight() < 500 ){
